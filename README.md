@@ -2,6 +2,24 @@
 
 Small, focused utility to download high-resolution YouTube video assets suitable for editing (e.g., DaVinci Resolve).
 
+## Disclaimer
+
+This project is intended for educational and personal workflow purposes only.
+
+`ytdl` is designed to help creators, editors, and students download high-quality video assets for uses such as:
+
+* Educational content
+* Commentary and criticism
+* Transformative editing
+* Research and analysis
+* Video remixing and creative projects
+
+Users are responsible for ensuring they comply with YouTube’s Terms of Service and all applicable copyright laws in their country.
+
+Do not use this tool to redistribute copyrighted material without permission. If you use downloaded content, make meaningful changes or ensure your usage falls under fair use/fair dealing or other applicable legal exceptions.
+
+This repository is provided for learning and technical demonstration purposes only.
+
 ## Overview
 
 `ytdl.py` is a minimal Python script that uses `yt-dlp` to download the best available video (no audio) and convert WebM/VP9 outputs to MP4 for compatibility with video editors.
